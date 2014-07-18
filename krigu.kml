@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name><![CDATA[Hello world!]]></name>
+      <description>
+        <![CDATA[
+          <h1>Hello world!</h1>
+          <a href="http://www.krigu.ch/uncategorized/hello-world/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.4446085,46.9479222</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Danger Schnegi]]></name>
+      <description>
+        <![CDATA[
+          <h1>Danger Schnegi</h1>
+          <a href="http://www.krigu.ch/uncategorized/danger-schnegi/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.4446085,46.9479222</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Sunset at Hasliberg]]></name>
+      <description>
+        <![CDATA[
+          <h1>Sunset at Hasliberg</h1>
+          <a href="http://www.krigu.ch/uncategorized/winter-hasliberg/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.19872,46.7415</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Winter 2014]]></name>
+      <description>
+        <![CDATA[
+          <h1>Winter 2014</h1>
+          <a href="http://www.krigu.ch/uncategorized/winter-2014/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.4446085,46.9479222</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Reisestart]]></name>
+      <description>
+        <![CDATA[
+          <h1>Reisestart</h1>
+          <a href="http://www.krigu.ch/uncategorized/reisestart/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.4446085,46.9479222</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Tag 1 Toronto]]></name>
+      <description>
+        <![CDATA[
+          <h1>Tag 1 Toronto</h1>
+          <a href="http://www.krigu.ch/uncategorized/tag-1-toronto/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.3831843,43.653226</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Toronto]]></name>
+      <description>
+        <![CDATA[
+          <h1>Toronto</h1>
+          <a href="http://www.krigu.ch/uncategorized/toronto/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.3831843,43.653226</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Niagara Falls]]></name>
+      <description>
+        <![CDATA[
+          <h1>Niagara Falls</h1>
+          <a href="http://www.krigu.ch/uncategorized/niagara-falls/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.0377388,43.0962143</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[New York]]></name>
+      <description>
+        <![CDATA[
+          <h1>New York</h1>
+          <a href="http://www.krigu.ch/uncategorized/new-york/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-74.0059413,40.7127837</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[La Paz]]></name>
+      <description>
+        <![CDATA[
+          <h1>La Paz</h1>
+          <a href="http://www.krigu.ch/uncategorized/la-paz/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-68.15,-16.5</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Tour Salar de Uyuni]]></name>
+      <description>
+        <![CDATA[
+          <h1>Tour Salar de Uyuni</h1>
+          <a href="http://www.krigu.ch/uncategorized/tour-salar-de-uyuni/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.6003964,-20.1869693</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[La Paz & Death Road]]></name>
+      <description>
+        <![CDATA[
+          <h1>La Paz & Death Road</h1>
+          <a href="http://www.krigu.ch/uncategorized/la-paz-death-road/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-68.15,-16.5</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Puno]]></name>
+      <description>
+        <![CDATA[
+          <h1>Puno</h1>
+          <a href="http://www.krigu.ch/uncategorized/puno/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-70.050314,-15.234875</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Arequipa]]></name>
+      <description>
+        <![CDATA[
+          <h1>Arequipa</h1>
+          <a href="http://www.krigu.ch/uncategorized/arequipa/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.537451,-16.4090474</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Colca Canyon]]></name>
+      <description>
+        <![CDATA[
+          <h1>Colca Canyon</h1>
+          <a href="http://www.krigu.ch/uncategorized/colca-canyon/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-72.0896229,-15.6093293</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Nasca]]></name>
+      <description>
+        <![CDATA[
+          <h1>Nasca</h1>
+          <a href="http://www.krigu.ch/uncategorized/nasca/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-74.9327583,-14.8358687</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Huacachina]]></name>
+      <description>
+        <![CDATA[
+          <h1>Huacachina</h1>
+          <a href="http://www.krigu.ch/uncategorized/huacachina/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.763333,-14.0875</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Ballestas Inseln]]></name>
+      <description>
+        <![CDATA[
+          <h1>Ballestas Inseln</h1>
+          <a href="http://www.krigu.ch/uncategorized/ballestas-inseln/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-76.3977304,-13.7318314</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Cusco]]></name>
+      <description>
+        <![CDATA[
+          <h1>Cusco</h1>
+          <a href="http://www.krigu.ch/uncategorized/cusco/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.9674626,-13.53195</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Inka Trail]]></name>
+      <description>
+        <![CDATA[
+          <h1>Inka Trail</h1>
+          <a href="http://www.krigu.ch/uncategorized/inka-trail/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.4527195,34.2455387</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Nationalpark Manu]]></name>
+      <description>
+        <![CDATA[
+          <h1>Nationalpark Manu</h1>
+          <a href="http://www.krigu.ch/uncategorized/nationalpark-manu/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.1667,-11.1833</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Lima]]></name>
+      <description>
+        <![CDATA[
+          <h1>Lima</h1>
+          <a href="http://www.krigu.ch/uncategorized/lima/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-77.0427934,-12.046374</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[San Francisco]]></name>
+      <description>
+        <![CDATA[
+          <h1>San Francisco</h1>
+          <a href="http://www.krigu.ch/uncategorized/san-francisco/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.4194155,37.7749295</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Anaheim]]></name>
+      <description>
+        <![CDATA[
+          <h1>Anaheim</h1>
+          <a href="http://www.krigu.ch/uncategorized/anaheim/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-117.9145036,33.8352932</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Oahu Hawaii]]></name>
+      <description>
+        <![CDATA[
+          <h1>Oahu Hawaii</h1>
+          <a href="http://www.krigu.ch/uncategorized/oahu-hawaii/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-158.0000565,21.4389123</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Big Island Hawaii]]></name>
+      <description>
+        <![CDATA[
+          <h1>Big Island Hawaii</h1>
+          <a href="http://www.krigu.ch/uncategorized/big-island-hawaii/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-155.6658568,19.5429151</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Maui Hawaii Teil 1]]></name>
+      <description>
+        <![CDATA[
+          <h1>Maui Hawaii Teil 1</h1>
+          <a href="http://www.krigu.ch/uncategorized/maui-hawaii-teil-1/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-156.3319253,20.7983626</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Maui Teil 2]]></name>
+      <description>
+        <![CDATA[
+          <h1>Maui Teil 2</h1>
+          <a href="http://www.krigu.ch/uncategorized/maui-teil-2/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-156.3319253,20.7983626</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Waikiki zum 2.]]></name>
+      <description>
+        <![CDATA[
+          <h1>Waikiki zum 2.</h1>
+          <a href="http://www.krigu.ch/uncategorized/waikiki-zum-2/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-157.835698,21.285002</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Los Angeles]]></name>
+      <description>
+        <![CDATA[
+          <h1>Los Angeles</h1>
+          <a href="http://www.krigu.ch/uncategorized/los-angeles/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.2436849,34.0522342</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Palm Springs und Joshua tree national park]]></name>
+      <description>
+        <![CDATA[
+          <h1>Palm Springs und Joshua tree national park</h1>
+          <a href="http://www.krigu.ch/uncategorized/palm-springs-und-joshua-tree-national-park/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.5452921,33.8302961</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Grand Canyon]]></name>
+      <description>
+        <![CDATA[
+          <h1>Grand Canyon</h1>
+          <a href="http://www.krigu.ch/uncategorized/grand-canyon/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-113.0309112,36.2317194</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Las Vegas]]></name>
+      <description>
+        <![CDATA[
+          <h1>Las Vegas</h1>
+          <a href="http://www.krigu.ch/uncategorized/las-vegas/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-115.1398296,36.1699412</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Death Valley]]></name>
+      <description>
+        <![CDATA[
+          <h1>Death Valley</h1>
+          <a href="http://www.krigu.ch/uncategorized/death-valley/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-117.0794078,36.5053891</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Yosemite National Park zum 1.]]></name>
+      <description>
+        <![CDATA[
+          <h1>Yosemite National Park zum 1.</h1>
+          <a href="http://www.krigu.ch/uncategorized/yosemite-national-park-zum-1/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.5383294,37.8651011</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[South lake Tahoe]]></name>
+      <description>
+        <![CDATA[
+          <h1>South lake Tahoe</h1>
+          <a href="http://www.krigu.ch/uncategorized/south-lake-tahoe/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.9771868,38.939926</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Yosemite National Park zum 2.]]></name>
+      <description>
+        <![CDATA[
+          <h1>Yosemite National Park zum 2.</h1>
+          <a href="http://www.krigu.ch/uncategorized/yosemite-national-park-zum-2/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.5383294,37.8651011</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Santa Cruz]]></name>
+      <description>
+        <![CDATA[
+          <h1>Santa Cruz</h1>
+          <a href="http://www.krigu.ch/uncategorized/santa-cruz/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.0307963,36.9741171</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Kings Canyon- / Sequoia National Park]]></name>
+      <description>
+        <![CDATA[
+          <h1>Kings Canyon- / Sequoia National Park</h1>
+          <a href="http://www.krigu.ch/uncategorized/kings-canyon-sequoia-national-park/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.5551477,36.8878548</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Taft, Santa Barbara und Malibu Beach]]></name>
+      <description>
+        <![CDATA[
+          <h1>Taft, Santa Barbara und Malibu Beach</h1>
+          <a href="http://www.krigu.ch/uncategorized/taft-santa-barbara-und-malibu-beach/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.6981901,34.4208305</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Style id="yellowLineGreenPoly">
+      <LineStyle>
+        <color>7f00ffff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>generated route</name>
+      <description>please consider the environment before printing this plot</description>
+      <styleUrl>#yellowLineGreenPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+        7.4446085,46.9479222
+7.4446085,46.9479222
+8.19872,46.7415
+7.4446085,46.9479222
+7.4446085,46.9479222
+-79.3831843,43.653226
+-79.3831843,43.653226
+-79.0377388,43.0962143
+-74.0059413,40.7127837
+-68.15,-16.5
+-67.6003964,-20.1869693
+-68.15,-16.5
+-70.050314,-15.234875
+-71.537451,-16.4090474
+-72.0896229,-15.6093293
+-74.9327583,-14.8358687
+-75.763333,-14.0875
+-76.3977304,-13.7318314
+-71.9674626,-13.53195
+-116.4527195,34.2455387
+-71.1667,-11.1833
+-77.0427934,-12.046374
+-122.4194155,37.7749295
+-117.9145036,33.8352932
+-158.0000565,21.4389123
+-155.6658568,19.5429151
+-156.3319253,20.7983626
+-156.3319253,20.7983626
+-157.835698,21.285002
+-118.2436849,34.0522342
+-116.5452921,33.8302961
+-113.0309112,36.2317194
+-115.1398296,36.1699412
+-117.0794078,36.5053891
+-119.5383294,37.8651011
+-119.9771868,38.939926
+-119.5383294,37.8651011
+-122.0307963,36.9741171
+-118.5551477,36.8878548
+-119.6981901,34.4208305
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
