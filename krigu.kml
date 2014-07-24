@@ -257,7 +257,7 @@
         ]]>
       </description>
       <Point>
-        <coordinates>-116.4527195,34.2455387</coordinates>
+        <coordinates>-72.4160922,-13.2331936</coordinates>
       </Point>
     </Placemark>                
 
@@ -521,6 +521,58 @@
       </Point>
     </Placemark>                
 
+    <Placemark>
+      <name><![CDATA[Panama City]]></name>
+      <description>
+        <![CDATA[
+          <h1>Panama City</h1>
+          <a href="http://www.krigu.ch/uncategorized/panama-city/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.516667,8.983333</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[El valle de Anton]]></name>
+      <description>
+        <![CDATA[
+          <h1>El valle de Anton</h1>
+          <a href="http://www.krigu.ch/uncategorized/el-valle-de-anton/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.1303,8.6008</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Pedasi und playa venao]]></name>
+      <description>
+        <![CDATA[
+          <h1>Pedasi und playa venao</h1>
+          <a href="http://www.krigu.ch/uncategorized/pedasi-und-playa-venao/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.6007248,8.8933965</coordinates>
+      </Point>
+    </Placemark>                
+
+    <Placemark>
+      <name><![CDATA[Playa Guanico]]></name>
+      <description>
+        <![CDATA[
+          <h1>Playa Guanico</h1>
+          <a href="http://www.krigu.ch/uncategorized/playa-guanico/">checkout the blogpost</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-66.8471429,17.9533344</coordinates>
+      </Point>
+    </Placemark>                
+
     <Style id="yellowLineGreenPoly">
       <LineStyle>
         <color>7f00ffff</color>
@@ -558,7 +610,7 @@
 -75.763333,-14.0875
 -76.3977304,-13.7318314
 -71.9674626,-13.53195
--116.4527195,34.2455387
+-72.4160922,-13.2331936
 -71.1667,-11.1833
 -77.0427934,-12.046374
 -122.4194155,37.7749295
@@ -579,6 +631,10 @@
 -122.0307963,36.9741171
 -118.5551477,36.8878548
 -119.6981901,34.4208305
+-79.516667,8.983333
+-80.1303,8.6008
+-79.6007248,8.8933965
+-66.8471429,17.9533344
         </coordinates>
       </LineString>
     </Placemark>
